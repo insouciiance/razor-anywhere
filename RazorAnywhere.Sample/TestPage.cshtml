@@ -1,0 +1,10 @@
+﻿@using RazorAnywhere
+@namespace RazorAnywhere.Sample
+@inherits RazorPage<TestPageModel>
+Hello from Razor!
+
+Here is a list of people who love @Model.Snack:
+@foreach(var (name, age) in Model.People)
+{
+@:@name, who is @age y.o.
+}
