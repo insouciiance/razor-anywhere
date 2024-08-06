@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorAnywhere", "RazorAnywhere\RazorAnywhere.csproj", "{38757D0B-B34A-403A-9A0E-EB9E1A912A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorAnywhere.Sample", "RazorAnywhere.Sample\RazorAnywhere.Sample.csproj", "{FF7927C0-2935-4F59-96FD-27C1EF4828C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38757D0B-B34A-403A-9A0E-EB9E1A912A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38757D0B-B34A-403A-9A0E-EB9E1A912A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38757D0B-B34A-403A-9A0E-EB9E1A912A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38757D0B-B34A-403A-9A0E-EB9E1A912A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7927C0-2935-4F59-96FD-27C1EF4828C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7927C0-2935-4F59-96FD-27C1EF4828C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7927C0-2935-4F59-96FD-27C1EF4828C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7927C0-2935-4F59-96FD-27C1EF4828C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26DE1C5B-F216-48B9-9944-C67F0A3D70FE}
+	EndGlobalSection
+EndGlobal
